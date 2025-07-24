@@ -1,0 +1,1 @@
+SELECT * FROM bath_first_load;
